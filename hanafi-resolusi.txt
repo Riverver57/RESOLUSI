@@ -2,6 +2,7 @@ hanafi resolusi
 -------------------
 became data science
 python developer
-web developer
 ----------
 kerja apapun
+-----------
+buat website
