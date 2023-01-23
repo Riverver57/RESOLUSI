@@ -1,2 +1,2 @@
 # RESOLUSI
-Rencana resolusi untuk menyimpan kedepannya
+Rencana resolusi kedepannya
